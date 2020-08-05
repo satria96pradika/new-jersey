@@ -1,0 +1,101 @@
+<mjml>
+  <mj-body background-color="#e4e6eb">
+    <mj-section background-color="white" padding-top="0px" padding-bottom="0px" border-bottom="1px dashed #eee">
+      <mj-column width="100%" vertical-align="top">
+        <mj-image src="../images/logo.png" alt="New Jersey Logo" align="center" border="none" width="200px" padding-left="0px" padding-right="0px" padding-bottom="30px" padding-top="30px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="0px" padding-bottom="0px">
+      <mj-column width="100%" vertical-align="top">
+        <mj-text align="center" color="#071C4D" font-size="30px" font-weight="bold" font-family="Playfair Display, Times New Roman, serif" padding-left="25px" padding-right="25px" padding-bottom="30px" padding-top="30px">
+          Don't Forget Your E-Ticket!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="0px" padding-bottom="0px">
+      <mj-column width="100%">
+        <mj-image src="../images/e-ticket.png" alt="Destination Image" align="center" border="none" width="500px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="20px" padding-bottom="20px">
+      <mj-column width="100%" vertical-align="middle" border-bottom="1px dashed #eee" padding-bottom="30px">
+        <mj-text align="left" color="#071C4D" font-size="18px" line-height="20px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          Hi, Satria Pradika
+          <br>
+          <br>
+          Your e-ticket has been printed successfully.
+          <br>
+          Booking ID <strong>#19970510</strong>
+        </mj-text>
+
+        <mj-table color="#071C4D" font-size="18px" line-height="28px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          <tr>
+            <td colspan="3">Members</td>
+          </tr>
+          <tr>
+            <td><strong>Satria Pradika</strong></td>
+            <td style="text-align: right">ID</td>
+          </tr>
+          <tr>
+            <td><strong>Ray Berry</strong></td>
+            <td style="text-align: right">DE</td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="#071C4D" font-size="18px" line-height="28px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          <tr>
+            <td colspan="3">Travel Details</td>
+          </tr>
+          <tr>
+            <td><strong>Departure</strong></td>
+            <td style="text-align: right">Nusa Penida</td>
+          </tr>
+          <tr>
+            <td><strong>Date and Time</strong></td>
+            <td style="text-align: right">Sat, Aug 22, 2020</td>
+          </tr>
+        </mj-table>
+
+        <mj-button align="center" font-size="18px" font-weight="bold" background-color="#FF9E53" font-family="Assistant, Helvetica, Arial, sans-serif">
+          Check Details
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="0px" padding-bottom="0px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="left" color="#071C4D" font-size="18px" line-height="20px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+          Need help?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="0px" padding-bottom="20px">
+      <mj-column>
+        <mj-table>
+          <tr>
+            <td style="width: 50px;">
+              <img src="../images/icon/icon-support.png" width="50px" />
+            </td>
+            <td style="font-size: 18px; padding-left: 10px; color: #071c4d; font-family: Assistant, Helvetica, Arial, sans-serif;">
+              support@new-jersey.id
+              <br>
+              +62 812 3456 789
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="30px" padding-top="3px">
+      <mj-column>
+        <mj-text align="center" color="#6E6E6E" font-size="18px" font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="30px">
+          © 2020 New Jersey • All Rights Reserved
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
